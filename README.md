@@ -63,3 +63,70 @@ http://schoolofdata.org/2014/09/12/easy-access-to-world-bank-and-un-development-
 http://schoolofdata.org/2013/03/26/using-sql-for-lightweight-data-analysis/
 
 	data analysis sql
+
+http://schoolofdata.org/2013/03/14/first-steps-in-identifying-climate-change-denial-networks-on-twitter/
+	
+	gephi
+
+https://github.com/mgomezm/Predicting-Parkinsons
+	
+	zipfian final project
+	classify parkinson
+
+https://github.com/mgomezm/ML-Challenge
+
+	recommender system 
+	predicting clicks on a web site
+
+https://www.kaggle.com/c/datasciencebowl/details/tutorial
+
+	classifying planktons
+
+https://github.com/dssg/student-early-warning
+
+	predict high school dropouts
+
+https://github.com/dssg/streetlights-crime
+
+	relationship of chicago street light outages with crime
+
+https://github.com/dssg/mexico-public
+
+	maternal mortality in mexico
+
+https://github.com/dssg/predicting_student_enrollment_public
+
+	predicting school enrollment
+
+https://github.com/dssg/data-challenges/tree/master/ChicagoCityOfLearning
+
+	data challenges in chicago dssg summer of learning
+
+https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/
+
+	Big data analytics with Pandas and SQLite 
+
+Problems unsolved
+=================
+
+http://www.drivendata.org/competitions/4/page/15/
+
+	Box-Plots for Education: competition in drivendata
+
+http://www.drivendata.org/competitions/7/page/25/
+
+	predicting which water pumps fail
+
+Github Repos
+============
+
+Books
+=====
+
+Practical Data Science Cookbook
+
+Python for Data Analysis
+
+	lots of examples
+	also covers several libraries
+
