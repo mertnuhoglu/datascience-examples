@@ -1,5 +1,9 @@
 # datascience-examples
+
 Links to data science examples and exercises
+
+Data Cleaning and Analysis
+--------------------------
 
 http://www.sharpsightlabs.com/data-analysis-example-r-supercars-part1/
 
@@ -12,14 +16,19 @@ https://docs.google.com/document/d/1oGxqiJkbudatD6mOaqtalZGqvQ2uugUACaup-a35sn8/
 http://www.decisionsciencenews.com/2014/10/29/getting-old-baseball/
 
 http://talhaoz.com/?p=653
-Yorumcu Olarak TBMM
+
+	Yorumcu Olarak TBMM
 	data analysis of the tweets of parliament members of Turkey
 
 http://talhaoz.com/?p=711
-Identifying Turkish News Media Groups with Twitter
+
+	Identifying Turkish News Media Groups with Twitter
 
 https://rawgit.com/oztalha/weatherforecast/master/docs/cs780project.html
-Partly Sunny with a Chance of Hashtags 
+
+	Partly Sunny with a Chance of Hashtags 
+
+http://rpubs.com/ryankelly/big-data-workflow-r
 
 Data Journalism
 ---------------
@@ -106,6 +115,10 @@ https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/
 
 	Big data analytics with Pandas and SQLite 
 
+http://blog.alexadler.net/?p=16
+
+	Kaggle AXA Telematics: Trip Matching
+
 Problems unsolved
 =================
 
@@ -129,4 +142,11 @@ Python for Data Analysis
 
 	lots of examples
 	also covers several libraries
+
+Graph
+=====
+
+http://markorodriguez.com/2011/09/22/a-graph-based-movie-recommender-engine/
+
+http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/
 
